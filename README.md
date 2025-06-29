@@ -15,7 +15,7 @@ This GenAI tool allows users to upload a document (PDF/TXT), then interact with 
 ## Setup Instructions
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/genai_doc_assistant.git
+git clone https://github.com/fiercing-fury/genai_doc_assistant.git
 cd genai_doc_assistant
 ```
 
